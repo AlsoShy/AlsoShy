@@ -2,20 +2,20 @@
 <h1 align="center">Hey! I'm Alsoshy</h1>
 <h3 align="center">A chill, relaxed person, I'm 14 years old</h3>
 
-<p align="left"> <img src="https://img.shields.io/badge/OldFag-Yes!-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" alt="alsoshy" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Preview-color-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" alt="alsoshy" /> </p>
 <hr>
-- I'm Rn working on [3arth+](https://github.com/AlsoShy/3arthplus)
+- I'm right now just chilling
 
 - I’m currently learning **HTML, Java, CSS (and a bit of kotlin)**
 
-- Join 3arth+ discord server, there you can also reach me [3arth+ server](https://discord.com/invite/rbGuUEHaAR)
+- My discord server is [Here](https://discord.gg/yaVT3qwg6N).
 
-- Here's my email **2b2tveteran@gmail.com**
+ <img src="https://img.shields.io/badge/Discord:-alsoshy-gray.svg?colorA=5865F2&colorB=636ee2&style=for-the-badge" alt="alsoshy" />
 
 - Fun fact: **I'm from lithuania**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/rbGuUEHaAR" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlsoShy#3856" height="30" width="40" /></a>
+<a href="https://discord.gg/yaVT3qwg6N" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlsoShy#3856" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
