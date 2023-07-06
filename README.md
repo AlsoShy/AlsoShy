@@ -1,7 +1,8 @@
 
-<h1 align="center">Hey! I'm Alsoshy</h1>
+<h1 align="center">Hello! I'm AlsoShy</h1>
+I am pretty chill and play a LOT of mc
 
-<p align="left"> <img src="https://img.shields.io/badge/Fav-color%20scheme-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge" alt="alsoshy" /> </p>
+- mc (minecraft), especialy the version 1.12.2
 <hr>
 - Maybe im porting smth rn? who knows?
 
