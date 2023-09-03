@@ -1,8 +1,7 @@
 
 <h1 align="center">Hello! I'm AlsoShy</h1>
-I am pretty chill and play a LOT of mc
 
-- mc (minecraft), especialy the version 1.12.2
+- I can code, Simple things
 <hr>
 - Maybe im porting smth rn? who knows?
 
